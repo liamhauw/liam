@@ -12,6 +12,7 @@ A simple renderer based on Vulkan
 
 # Build
 ```zsh
+git clone https://github.com/liamhauw/vulkan-demo.git
 cmake -S . -B build
 cmake --build build
 ```
@@ -20,3 +21,7 @@ cmake --build build
 ```zsh
 ./bin/main
 ```
+
+# Result
+![](./img/res.png)
+![](./img/res1.png)
