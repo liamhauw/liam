@@ -1,6 +1,6 @@
 # Introducation
 
-A simple scene based on Vulkan
+A simple renderer based on Vulkan
 
 # Dependence
 > MacOS and Windows
